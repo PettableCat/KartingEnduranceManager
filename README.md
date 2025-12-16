@@ -64,8 +64,6 @@ python main.py
 3. Start a race and track laps, stints, and stats.
 4. Export race summaries for review.
 
-*(Screenshots can be added here for clarity: `resources/screenshots/`)*
-
 ---
 
 ## Contributing
